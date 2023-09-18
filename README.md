@@ -5,5 +5,5 @@
 
 ### Goal of the Project
 
-> The goal of this project
+> The goal of this project is make informed decisions in the real estate market, costumers need to have appropriate knowledge and be up to date. One of the most important pieces of information, regardless of whether costumers are buying, selling or renting, is the price. 
 
