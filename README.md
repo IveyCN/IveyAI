@@ -9,7 +9,7 @@
 
 ### Data preprocessing
 
-> To achieve the goal of the project we need, first, preprocessing the data make it clean enough that we can easy to understand and analysis.
+> To achieve the goal of the project we need, first, preprocessing the data make it clean enough that we can easy to understand and analysis. We need to use snowflake, python and google sheet to preprocess the whole dataset
 
 __The first two most significant challenges we face when performing data preprocessing are respectively.__
 
@@ -49,4 +49,8 @@ with engine.connect() as conn:
     finally:
         conn.close()
 engine.dispose()
+```
+__Title Text translate to English__
+```python
+
 ```
