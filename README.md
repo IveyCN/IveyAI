@@ -29,7 +29,7 @@ __From Web data Scraper__ we have data in this format
   "surface": "55,10 m²",
   "timestamp": "2023-01-20",
   "title": "Mieszkanie z tarasem i panoramicznym widokiem.",
-  "url": "https://www.otodom.pl/pl/oferta/mieszkanie-z-tarasem-i-panoramicznym-widokiem-ID4i7Fe"|
+  "url": "https://www.otodom.pl/pl/oferta/mieszkanie-z-tarasem-i-panoramicznym-widokiem-ID4i7Fe" |
 
 __The first two most significant challenges we face when performing data preprocessing are respectively.__
 
